@@ -175,7 +175,7 @@ template {
 .header-body {
     width: 100%;
     height: 1050px;
-    background-image: url(/images/foto/virna_oblojka_home.jpg);
+    background-image: url(../images/foto/virna_oblojka_home.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
